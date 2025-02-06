@@ -2,9 +2,9 @@
 
 ###
 
-- Check out my [Key Projects!](https://github.com/CloudJS7/Key-Projects) 
-- Self-Taught Cybersecurity Enthusiast
-- Check out more of my Cloud Security Related Projects [Here](https://github.com/CloudJS7/Cloud-Security-Projects) 
+- 🛠️Check out my [Key Projects!](https://github.com/CloudJS7/Key-Projects) 
+- 👨🏻‍💻Self-Taught Cybersecurity Enthusiast
+- ☁️Check out more of my Cloud Security Related Projects [Here](https://github.com/CloudJS7/Cloud-Security-Projects) 
 
 
 ###
@@ -18,14 +18,14 @@
 
 ###
 
-<h2>Certifications</h2>
+<h2>📄Certifications</h2>
 
 - SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - Google Cybersecurity Professional
 
 ###
 
-<h2>Tech Stack:</h2>
+<h2>💻Tech Stack:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
