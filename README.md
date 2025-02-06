@@ -2,8 +2,8 @@
 
 ###
 
-Check out my [Cloud Security Projects!](https://github.com/CloudJS7/Cloud-Security-Projects)
-Self-Taught Cybersecurity Enthusiast 
+- Check out my [Cloud Security Projects!](https://github.com/CloudJS7/Cloud-Security-Projects)
+- Self-Taught Cybersecurity Enthusiast 
 
 
 ###
