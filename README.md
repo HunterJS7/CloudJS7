@@ -17,6 +17,8 @@
 
 ###
 
+<h2>Tech Stack:</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
