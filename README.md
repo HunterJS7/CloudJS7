@@ -2,9 +2,9 @@
 
 ###
 
-- Check out my [Cloud Security Projects!](https://github.com/CloudJS7/Cloud-Security-Projects)
+- Check out my [Key Projects!](https://github.com/CloudJS7/Key-Projects) 
 - Self-Taught Cybersecurity Enthusiast
-- [Key Projects!](https://github.com/CloudJS7/Key-Projects) 
+- Check out more of my Cloud Security Related Projects [Here](https://github.com/CloudJS7/Cloud-Security-Projects) 
 
 
 ###
