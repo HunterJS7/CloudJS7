@@ -17,6 +17,13 @@
 
 ###
 
+<h2>Certifications</h2>
+
+- SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Google Cybersecurity
+
+###
+
 <h2>Tech Stack:</h2>
 
 <div align="left">
