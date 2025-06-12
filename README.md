@@ -1,10 +1,10 @@
-<h2 align="left">Hello World! I'm Jose, an aspiring Cloud Security Engineer</h2>
+<h2 align="left">Hello World! I'm Jose, an aspiring Security Analyst / Ethical Hacker!</h2>
 
 ###
 
-- 🛠️Check out my [Key Projects!](https://github.com/CloudJS7/Key-Projects) 
+- 🛠️Check out my [Key Projects!](xxxx) 
 - 👨🏻‍💻Self-Taught Cybersecurity Enthusiast
-- ☁️Check out more of my Cloud Security Related Projects [Here](https://github.com/CloudJS7/Cloud-Security-Projects) 
+- ☁️Check out more of my Cloud Security Related Projects [Here](xxxx) 
 
 
 ###
@@ -12,15 +12,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudJS7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CloudJS7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HunterJS7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HunterJS7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <h2>📄Certifications</h2>
 
-- SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 - Google Cybersecurity Professional
 
 ###
@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CloudJS7/CloudJS7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HunterJS7/HunterJS7/output/snake.svg" alt="Snake animation" />
 
 ###
