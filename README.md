@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Jose, an aspiring Security Analyst / Ethical Hacker!</h2>
+<h2 align="left">Hello World! I'm Jose, an aspiring SOC Analyst!</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/cloudjs7/" target="_blank">
+  <a href="https://www.linkedin.com/in/hunterjs7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/thekingjs7/" target="_blank">
